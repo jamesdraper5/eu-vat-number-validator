@@ -5,7 +5,7 @@ Validates the format of VAT numbers for EU countries
 
 ## Usage
 
-Simply call the function, passing the
+Simply call the function, passing the VAT number to it:
 
 ```
 if (checkVATNumber(myVATNumber)) {
